@@ -1,2 +1,4 @@
-var hello = 'Hello World';
-alert(hello);
+alert('5 + 6 = ' + (5 + 6));
+alert('8 - 6 = ' + (8 - 6));
+alert('9 * 2 = ' + (9 * 2));
+alert('9 / 3 = ' + (9 / 3));
